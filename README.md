@@ -129,6 +129,7 @@
 
 This project is [MIT](https://github.com/woowacourse/java-baseball-precourse/blob/master/LICENSE) licensed.
 
+---
 
 ## 숫자 야구 기능 정리
 
